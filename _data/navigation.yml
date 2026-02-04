@@ -16,7 +16,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+  
+  - title: "Military Studies"
+    url: /military-studies/
+
   - title: "Portfolio"
     url: /portfolio/
         
